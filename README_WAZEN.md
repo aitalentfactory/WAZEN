@@ -1,5 +1,5 @@
 
-## Wazen - Smart Application for Expense Classifier and Analyzer & help family members save and achieve financial goals
+## Wazen - Smart Application for Expense Classifier and Analyzer & Help Family Members Achieve Financial Goals
 
 Wazen is an AI-powered expense classification and analytics backend that empowers individuals to track their spending intelligently, categorize transactions automatically using machine learning, and visualize patterns to make informed financial decisions.
 
