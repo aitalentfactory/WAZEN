@@ -1,5 +1,5 @@
 
-# Wazen - Smart Expense Classifier and Analyzer
+## Wazen - Smart Application for Expense Classifier and Analyzer & help family members save and achieve financial goals
 
 Wazen is an AI-powered expense classification and analytics backend that empowers individuals to track their spending intelligently, categorize transactions automatically using machine learning, and visualize patterns to make informed financial decisions.
 
@@ -39,50 +39,6 @@ This repository provides the backend and data science pipeline for the "Wazen" a
 
 ---
 
-## 🗂️ Folder Structure
-
-```
-.
-├── training/               # Training pipeline (data cleaning, model training)
-├── testing/                # Testing and prediction on new data
-├── api/                    # FastAPI backend files
-├── data/                   # Original and processed CSVs
-├── models/                 # Saved .joblib model and label encoder
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repo
-2. Create a virtual environment
-3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Train the model
-
-```bash
-python training/train_model.py
-```
-
-5. Test with Saudi transactions
-
-```bash
-python testing/test_classifier_code.py
-```
-
-6. Run FastAPI server
-
-```bash
-uvicorn api.main:app --reload
-```
-
----
 
 ## 📊 Datasets
 
@@ -94,27 +50,14 @@ uvicorn api.main:app --reload
 
 ## 📱 Frontend
 
-Mobile UI developed in Xcode (Swift) by student team.
+Mobile UI developed in Xcode (Swift) by students team.
 
 ---
 
 ## 🤝 Contributors
 
-- Dr. Lubna Abdelkarem Gabralla – Project Lead
-- AI Talent Factory – Technical mentoring
-- PNU Student Team – Frontend and data prep
+- Dr. Lubna Abdelkareim Gabralla – Project Lead-Backend - MachineLearning
+- PNU Students Team – Frontend 
 
----
 
-## 📎 License
-
-MIT License – Free to use and distribute with attribution.
-
----
-
-## 📌 Related Projects
-
-- [Saddah - AI Football Trainer](https://github.com/aitalentfactory/Saddahfile)
-
----
 
