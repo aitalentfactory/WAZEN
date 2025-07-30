@@ -1,7 +1,10 @@
 
+
 fastapi
 uvicorn
 sqlalchemy
-pydantic
 joblib
+psycopg2-binary
 scikit-learn
+pydantic
+
